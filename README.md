@@ -41,11 +41,20 @@ Talented Java Full Stack Developer skilled at completing daily assignments and c
   
  </summary> 
 
-###### [EMAIL](bekzod.m070@gmail.com)
+<details>
+ <summary>
+  
+  ###### EMAIL
+  
+ </summary>
+ bekzod.m070@gmail.com
+ </details>
+ 
 ##### [LinkedIn](https://www.linkedin.com/in/bekzod-murotboyev-10b4b722b/)
-
 </details>
 
 ---
 
 ###### [WEBSITE](http://murotboyev-bekzodbek.us-east-1.elasticbeanstalk.com)
+
+###### [RESUME](https://drive.google.com/file/d/14glPCHdBOOfzmKpc2qAGexUYXwE_rTnJ/view?usp=sharing)
