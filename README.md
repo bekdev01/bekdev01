@@ -1,7 +1,7 @@
 # _BEKZODBEK MUROTBOYEV_ 
 ***_Java Full Stack Developer_***                           
 
-  ![](https://user-images.githubusercontent.com/89134113/168287376-f39f6f74-8012-4597-9a56-bd643ff31b03.png)
+<!-- ![Bekzodbek Murotboyev](https://user-images.githubusercontent.com/89134113/168287376-f39f6f74-8012-4597-9a56-bd643ff31b03.png) -->
 
 ---
 
