@@ -49,7 +49,7 @@
   ###### _EMAIL_
   
  </summary>
- 
+
  _bekzod.m070@gmail.com_
  
  </details>
