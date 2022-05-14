@@ -60,6 +60,7 @@
  
 ##### *[LinkedIn](https://www.linkedin.com/in/bekzod-murotboyev-10b4b722b/)*
  
+##### *[HeadHunter](https://tashkent.hh.uz/resume/c0f70932ff09c241f00039ed1f38417945626c)*
  
 </details>
 
