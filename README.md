@@ -33,7 +33,10 @@
  
 *[RentSeeker](https://t.me/ijarachi01Bot) - This project is very useful for those who want to sell, buy, rent and look for a house to rent. This project was developed in groups, including Spring Boot, Webhook, PostgreSQL, Open Feign, Thymeleaf, Mail Sender and used communication with GitHub.*
  
-</details>
+ 
+*[RentSeeker](https://t.me/rail_e_tickets_bot) -  Helping this application you can get all information about railways and trains which is going around Uzbekistan.*
+ 
+ </details>
 
 ---
 
